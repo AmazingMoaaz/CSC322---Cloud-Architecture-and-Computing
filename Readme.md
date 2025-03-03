@@ -17,7 +17,7 @@ This project provides a simple **Category Management API** using **Express.js** 
 1️⃣ **Clone the repository**
 ```sh
 git clone https://github.com/AmazingMoaaz/CSC322-Cloud-Architecture-and-Computing.git
-cd CSC322---Cloud-Architecture-and-Computing
+cd CSC322-Cloud-Architecture-and-Computing
 ```
 
 2️⃣ **Install dependencies**
